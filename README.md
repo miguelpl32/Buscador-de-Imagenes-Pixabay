@@ -8,7 +8,7 @@
 
 ### Visita el proyecto.
 
-[Visita el proyecto](https://firestore-grafica-6554c.web.app/inicio)
+[Visita el proyecto](https://miguelpl32.github.io/Buscador-de-Imagenes-Pixabay/)
 
 
 ![](buscador-imagenes.jpg)
